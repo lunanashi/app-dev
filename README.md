@@ -168,7 +168,7 @@ You can listen to the full album in this [link](https://www.youtube.com/playlist
 ## Other *Anime Series Revisited, One Year Later* Entries
 
 - December 2023: Bocchi the Rock!
-- January 2023: Oshi no Ko (in development)
+- ~~January 2023: Oshi no Ko~~
 - *More coming soon!*
 
 ## Author's To-Do List 
